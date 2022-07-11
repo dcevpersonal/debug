@@ -57,7 +57,3 @@ rec_one.init()
 rec_two.init()
 
 
-console.log("This is test")
-console.log("Something")
-console.log("Fix")
-console.log("Hello from GitHub")
