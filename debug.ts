@@ -57,3 +57,4 @@ rec_one.init()
 rec_two.init()
 
 console.log("This is test")
+console.log("Something")
