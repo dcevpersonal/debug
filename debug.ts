@@ -56,4 +56,4 @@ const rec_two = new PhyObject(canvas,0.4,70,0,50,50)
 rec_one.init()
 rec_two.init()
 
-an
+console.log("This is test")
